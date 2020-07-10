@@ -42,9 +42,15 @@ Least Absolute Shrinkage and Selection Operator adds “_absolute value of magni
 |--|--|
 |Computationally Inefficient|Computationally Efficient|
 |Sparce Outputs |  Non-Sparse Outputs  |
+|Feature Selection | No Feature Selection|
+
+
+## Difference
+
+The **key difference** between these techniques is that Lasso shrinks the less important feature’s coefficient to zero thus, removing some feature altogether. So, this works well for **feature selection** in case we have a huge number of features.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjEwNTcwNywtMTU0NjE1NTQ5MiwtMT
-M0ODA5Njc2OCwxODY5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3
-MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
+eyJoaXN0b3J5IjpbLTIwMTQxMzg3MzIsLTE1NDYxNTU0OTIsLT
+EzNDgwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNjc0
+NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
 -->
