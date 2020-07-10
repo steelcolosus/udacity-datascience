@@ -31,10 +31,10 @@ $$W=(X^T X)^{-1} X^Ty$$
 # Model Types
 
 ### Complex Models
-Complex models tend to have more coefficient, so the complexity of the model will be added to the error,
+Complex models tend to have more coefficient, so the complexity of the model will be added to the error having a bigger combined error
 
 $$
-2x_1^3 - 2x
+2x_1^3 - 2x_1^2x_2 - 4x_2^3
 $$
 
 ### Simple Models
@@ -69,8 +69,8 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjU2Mjg5NSwyMTMxMzI2OTQxLC0xNT
-Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
-NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
-FdfQ==
+eyJoaXN0b3J5IjpbODc3NDUyNzQ0LDIxMzEzMjY5NDEsLTE1ND
+YxNTU0OTIsLTEzNDgwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1
+MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV
+19
 -->
