@@ -37,10 +37,15 @@ $$
 2x_1^3 - 2x_1^2x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
 $$
 
+> Complex model example:
+> 
+
+ - Model to send a rocket o
+
 ### Simple Models
 Simple models tends to generalize better than complex models, also have less coefficients so it will have a smaller combined error than a complex model
 $$
-2x_1 - 2x_1x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
+3x_1 - 4x_2 + 5 =0
 $$
 
 # Regularization
@@ -71,7 +76,7 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQxOTM3OSwyMTMxMzI2OTQxLC0xNT
+eyJoaXN0b3J5IjpbMTQ2MDEyOTE5MSwyMTMxMzI2OTQxLC0xNT
 Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
 NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
 FdfQ==
