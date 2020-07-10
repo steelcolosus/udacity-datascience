@@ -51,6 +51,9 @@ $$
 >  - Video recommendation model
 >  - Social recommendation
 
+### Error tunning 
+
+
 # Regularization
 
 A regression model that uses L1 regularization technique is called **_Lasso Regression_** and model which uses L2 is called **_Ridge Regression_**.
@@ -79,7 +82,7 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTgyNDI0OCwyMTMxMzI2OTQxLC0xNT
+eyJoaXN0b3J5IjpbLTE1MzE5ODY0MiwyMTMxMzI2OTQxLC0xNT
 Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
 NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
 FdfQ==
