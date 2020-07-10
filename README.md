@@ -57,7 +57,11 @@ $$
 
 
 ### Error tunning 
-In order to fix or tune the model punishment we use `$\lambda$` parameter
+In order to fix or tune the model punishment we use $\lambda$ parameter.
+for 
+
+**Large $\lambda$**
+If 
 
 # Regularization
 
@@ -87,8 +91,8 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MTY1MTY1LDIxMzEzMjY5NDEsLTE1ND
-YxNTU0OTIsLTEzNDgwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1
-MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV
-19
+eyJoaXN0b3J5IjpbLTU1NjY0NTQwNSwyMTMxMzI2OTQxLC0xNT
+Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
+NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
+FdfQ==
 -->
