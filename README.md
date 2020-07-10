@@ -60,7 +60,7 @@ $$
 In order to fix or tune the model punishment we use $\lambda$ parameter and we can pick between
 
  - **Large $\lambda$** value, we are punishing complexity by a large ammount then we are picking a **simple model**
- - **Small $\lambda$** value,
+ - **Small $\lambda$** value, we are punishing complexity by a small ammount then we are ok having  a more **complex model**
 
 
 # Regularization
@@ -91,7 +91,7 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODYxNjM2NiwyMTMxMzI2OTQxLC0xNT
+eyJoaXN0b3J5IjpbMTU2MzUzMDQ1MCwyMTMxMzI2OTQxLC0xNT
 Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
 NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
 FdfQ==
