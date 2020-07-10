@@ -25,10 +25,10 @@ $$
 
 ## Closed  Form
 
-Closed form solution math:  $W=(X^tX)(^_-1$)
+Closed form solution math:  $W=(X^tX)^{-1}$ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzQ4MDkxOCwtMTM0ODA5Njc2OCwxOD
-Y5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5
-OTczLC0xOTg0NTcyMjAxXX0=
+eyJoaXN0b3J5IjpbNzQyNjgyOTE2LC0xMzQ4MDk2NzY4LDE4Nj
+k1MjcxNTMsLTY5NDAxNTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5
+NzMsLTE5ODQ1NzIyMDFdfQ==
 -->
