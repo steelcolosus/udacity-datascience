@@ -2,14 +2,23 @@
 
 ## Absolute Trick
 *For a point above the rect*
-![Point above the rect](https://raw.githubusercontent.com/steelcolosus/udacity-datascience/master/images/point-above.png)
+![enter image description here](https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png?raw=true)
 
 $$
 y = (w_1 + p\alpha)x + (w_2 + \alpha)
 $$
 
+for a point beneath the line
+![Beneath](https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png?raw=true)
+$$
+y = (w_1 - p\alpha)x + (w_2 - \alpha)
+$$
+
+## Square Trick
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDAxNTE2NSwxMTY3NDcxNDIxLDE4Mj
-UxNzk5NzMsLTE5ODQ1NzIyMDFdfQ==
+eyJoaXN0b3J5IjpbMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNj
+c0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
 -->
