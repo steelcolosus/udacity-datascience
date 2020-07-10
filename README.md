@@ -29,9 +29,9 @@ $$W=(X^T X)^{-1} X^Ty$$
 
 # Regularization
 
-
+A regression model that uses L1 regularization technique is called **_Lasso Regression_** and model which uses L2 is called **_Ridge Regression_**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYxNTU0OTIsLTEzNDgwOTY3NjgsMT
-g2OTUyNzE1MywtNjk0MDE1MTY1LDExNjc0NzE0MjEsMTgyNTE3
-OTk3MywtMTk4NDU3MjIwMV19
+eyJoaXN0b3J5IjpbMTA4NzAxNjI2MSwtMTU0NjE1NTQ5MiwtMT
+M0ODA5Njc2OCwxODY5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3
+MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
 -->
