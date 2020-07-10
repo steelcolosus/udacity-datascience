@@ -23,9 +23,12 @@ $$
 y = (w_1 - p(q-q')\alpha)x + (w_2 - (q-q')\alpha)
 $$
 
+## Closed  Form
+
+Closed form solution math: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgwOTY3NjgsMTg2OTUyNzE1MywtNj
-k0MDE1MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3
-MjIwMV19
+eyJoaXN0b3J5IjpbLTQwMDM4NTY3NSwtMTM0ODA5Njc2OCwxOD
+Y5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5
+OTczLC0xOTg0NTcyMjAxXX0=
 -->
