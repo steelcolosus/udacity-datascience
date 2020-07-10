@@ -27,6 +27,11 @@ $$
 
 $$W=(X^T X)^{-1} X^Ty$$
 
+
+# Model Types
+
+Complex Models
+
 # Regularization
 
 A regression model that uses L1 regularization technique is called **_Lasso Regression_** and model which uses L2 is called **_Ridge Regression_**.
@@ -55,7 +60,8 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTMyNjk0MSwtMTU0NjE1NTQ5MiwtMT
-M0ODA5Njc2OCwxODY5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3
-MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
+eyJoaXN0b3J5IjpbLTYwMzA3NjI3MCwyMTMxMzI2OTQxLC0xNT
+Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
+NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
+FdfQ==
 -->
