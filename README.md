@@ -8,8 +8,13 @@ $$
 y = (w_1 + p\alpha)x + (w_2 + \alpha)
 $$
 
+for a point beneath the line
+![Beneath the line](https://raw.githubusercontent.com/steelcolosus/udacity-datascience/master/images/below.png)
 
+$$
+y = (w_1 + p\alpha)x + (w_2 + \alpha)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDAxNTE2NSwxMTY3NDcxNDIxLDE4Mj
-UxNzk5NzMsLTE5ODQ1NzIyMDFdfQ==
+eyJoaXN0b3J5IjpbMTMwNTQ0MTg2NCwtNjk0MDE1MTY1LDExNj
+c0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
 -->
