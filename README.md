@@ -93,9 +93,13 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 
 # Feature Scaling
 
+Feature Scaling your data into a common range of values. There are two common scalings:
+
+ 1. Standardizing
+    2.  Normalizing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMDMxODQyLDE1NjM1MzA0NTAsMjEzMT
+eyJoaXN0b3J5IjpbLTg0ODgyNTI0LDE1NjM1MzA0NTAsMjEzMT
 MyNjk0MSwtMTU0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3
 MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC
 0xOTg0NTcyMjAxXX0=
