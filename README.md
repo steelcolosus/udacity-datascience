@@ -1,9 +1,11 @@
 #  Data Science
 
 ## Absolute Trick
-![Point above the rect](https://github.com/steelcolosus/udacity-datascience/blob/master/images/point-above.png)
+*For a point above the rect*
+![Point above the rect](https://raw.githubusercontent.com/steelcolosus/udacity-datascience/master/images/point-above.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDI5NDcwMywxODI1MTc5OTczLC0xOT
+eyJoaXN0b3J5IjpbMTE2NzQ3MTQyMSwxODI1MTc5OTczLC0xOT
 g0NTcyMjAxXX0=
 -->
