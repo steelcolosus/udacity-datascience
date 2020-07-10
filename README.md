@@ -98,9 +98,11 @@ Feature Scaling your data into a common range of values. There are two common sc
  1. Standardizing 
  2. Normalizing
 
+### Standardizing
 
+Takes each value of a column, substracting the mean o, and the mean of the column, and then dividing by the standard deviation of the column. In pyt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODAyMTczOCwxNTYzNTMwNDUwLDIxMz
+eyJoaXN0b3J5IjpbMjAxNjQ1MjQzOCwxNTYzNTMwNDUwLDIxMz
 EzMjY5NDEsLTE1NDYxNTU0OTIsLTEzNDgwOTY3NjgsMTg2OTUy
 NzE1MywtNjk0MDE1MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3My
 wtMTk4NDU3MjIwMV19
