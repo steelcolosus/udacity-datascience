@@ -25,13 +25,13 @@ $$
 
 ## Closed  Form
 
-Closed form solution math:  
+> *Closed form solution math:*
 
 $$W=(X^T X)^{-1} X^Ty$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY2Njc2NSwtMTM0ODA5Njc2OCwxOD
+eyJoaXN0b3J5IjpbMTA4NTI5NzE2NywtMTM0ODA5Njc2OCwxOD
 Y5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5
 OTczLC0xOTg0NTcyMjAxXX0=
 -->
