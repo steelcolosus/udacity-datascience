@@ -2,7 +2,7 @@
 
 ## Absolute Trick
 *For a point above the rect*
-![Point above the rect](images/point-above.png?raw=true)
+![Point above the rect]([https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png](https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png?raw=true))
 
 $$
 y = (w_1 + p\alpha)x + (w_2 + \alpha)
@@ -18,6 +18,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2OTA2MzY2LC02OTQwMTUxNjUsMTE2Nz
-Q3MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
+eyJoaXN0b3J5IjpbLTYzNTIyODc1OSwtNjk0MDE1MTY1LDExNj
+c0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
 -->
