@@ -31,10 +31,13 @@ $$W=(X^T X)^{-1} X^Ty$$
 
 A regression model that uses L1 regularization technique is called **_Lasso Regression_** and model which uses L2 is called **_Ridge Regression_**.
 
-## L1 regularization 
-Least Absolute Shrinkage and Selection Operator)adds “_absolute value of magnitude_” of coefficient as penalty term to the loss function.
+### L1 Regularization 
+Least Absolute Shrinkage and Selection Operator adds “_absolute value of magnitude_” of coefficient as penalty term to the loss function.
+
+### L2 Regularization
+**Ridge regression** adds “_squared magnitude_” of coefficient as penalty term to the loss function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTA4NDYsLTE1NDYxNTU0OTIsLTEzND
-gwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNjc0NzE0
-MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
+eyJoaXN0b3J5IjpbNDM0MjQxNTA1LC0xNTQ2MTU1NDkyLC0xMz
+Q4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAxNTE2NSwxMTY3NDcx
+NDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMDFdfQ==
 -->
