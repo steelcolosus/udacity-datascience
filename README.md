@@ -17,6 +17,12 @@ $$
 ## Square Trick
 
 
+![Beneath](https://github.com/steelcolosus/udacity-datascience/blob/master/images/squaretrick.png?raw=true)
+
+$$
+y = (w_1 - p(q-q')\alpha)x + (w_2 - (q-q')\alpha)
+$$
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNj
