@@ -14,9 +14,11 @@ $$
 y = (w_1 - p\alpha)x + (w_2 - \alpha)
 $$
 
+## Square Trick
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTI4Nzc2NSwtNjk0MDE1MTY1LDExNj
+eyJoaXN0b3J5IjpbMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNj
 c0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
 -->
