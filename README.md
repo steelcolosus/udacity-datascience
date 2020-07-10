@@ -31,7 +31,10 @@ $$W=(X^T X)^{-1} X^Ty$$
 # Model Types
 
 ### Complex Models
-Complex models tend to 
+Complex models tend to have more coefficient, so the error will increase 
+
+### Simple Models
+
 
 
 # Regularization
@@ -62,8 +65,8 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk1MTAyMTksMjEzMTMyNjk0MSwtMT
-U0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3MTUzLC02OTQw
-MTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMj
-AxXX0=
+eyJoaXN0b3J5IjpbLTYwMTEzNTMyOSwyMTMxMzI2OTQxLC0xNT
+Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
+NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
+FdfQ==
 -->
