@@ -40,10 +40,11 @@ Least Absolute Shrinkage and Selection Operator adds “_absolute value of magni
 ## L1 vs L2
 |L1 Regularization	|L2 Regularization  |
 |--|--|
-|Computationally Inefficient ( unless data is sparced  |  |
+|Computationally Inefficient|Computationally Efficient|
+|Sparce Outputs |  Non-Sparse Outputs  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwODE2NDcsLTE1NDYxNTU0OTIsLT
-EzNDgwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1MTY1LDExNjc0
-NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
+eyJoaXN0b3J5IjpbLTUyMjEwNTcwNywtMTU0NjE1NTQ5MiwtMT
+M0ODA5Njc2OCwxODY5NTI3MTUzLC02OTQwMTUxNjUsMTE2NzQ3
+MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
 -->
