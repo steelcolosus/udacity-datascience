@@ -12,9 +12,12 @@ for a point beneath the line
 ![Beneath the line](https://raw.githubusercontent.com/steelcolosus/udacity-datascience/master/images/below.png)
 
 $$
-y = (w_1 + p\alpha)x + (w_2 + \alpha)
+y = (w_1 - p\alpha)x + (w_2 - \alpha)
 $$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTQ0MTg2NCwtNjk0MDE1MTY1LDExNj
-c0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV19
+eyJoaXN0b3J5IjpbOTM4NzIzMTU4LC02OTQwMTUxNjUsMTE2Nz
+Q3MTQyMSwxODI1MTc5OTczLC0xOTg0NTcyMjAxXX0=
 -->
