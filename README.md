@@ -4,8 +4,10 @@
 *For a point above the rect*
 ![Point above the rect](https://raw.githubusercontent.com/steelcolosus/udacity-datascience/master/images/point-above.png)
 
-
+$$
+y = (w_1 + p
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzQ3MTQyMSwxODI1MTc5OTczLC0xOT
-g0NTcyMjAxXX0=
+eyJoaXN0b3J5IjpbLTk2NDA1OTAyMSwxMTY3NDcxNDIxLDE4Mj
+UxNzk5NzMsLTE5ODQ1NzIyMDFdfQ==
 -->
