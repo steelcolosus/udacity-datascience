@@ -90,9 +90,13 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Computationally Inefficient|Computationally Efficient|
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
+
+# Feature Scaling
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzUzMDQ1MCwyMTMxMzI2OTQxLC0xNT
-Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
-NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
-FdfQ==
+eyJoaXN0b3J5IjpbNDAzMDMxODQyLDE1NjM1MzA0NTAsMjEzMT
+MyNjk0MSwtMTU0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3
+MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC
+0xOTg0NTcyMjAxXX0=
 -->
