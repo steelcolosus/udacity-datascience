@@ -90,9 +90,39 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Computationally Inefficient|Computationally Efficient|
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
+
+# Feature Scaling
+
+Feature Scaling your data into a common range of values. There are two common scalings:
+
+ 1. Standardizing 
+ 2. Normalizing
+
+#### Standardizing
+
+Takes each value of a column, substracting the mean o, and the mean of the column, and then dividing by the standard deviation of the column. In Python, you ccould create a standardized value as:
+```python
+df["height_standard"] = (df["height"] - df["height"].mean()) / df["height"].std()
+```
+
+#### Normalizing
+
+A second type of feature scaling that is very popular is known as  **normalizing**. With normalizing, data are scaled between 0 and 1. Using the same example as above, we could perform normalizing in python in the following way:
+
+```python
+df["height_normal"] = (df["height"] - df["height"].min()) /     \
+                      (df["height"].max() - df['height'].min())
+```
+
+### When Should I Use Feature Scaling?
+
+In many machine learning algorithms, the result will change depending on the units of your data. This is especially true in two specific cases:
+
+1.  When your algorithm uses a distance based metric to predict.
+2.  When you incorporate regularization.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzUzMDQ1MCwyMTMxMzI2OTQxLC0xNT
-Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
-NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
-FdfQ==
+eyJoaXN0b3J5IjpbNzkxNzc1MjgzLDE1NjM1MzA0NTAsMjEzMT
+MyNjk0MSwtMTU0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3
+MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC
+0xOTg0NTcyMjAxXX0=
 -->
