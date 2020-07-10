@@ -34,12 +34,14 @@ $$W=(X^T X)^{-1} X^Ty$$
 Complex models tend to have more coefficient, so the complexity of the model will be added to the error having a bigger combined error
 
 $$
-2x_1^3 - 2x_1^2x_2 - 4x_2^3
+2x_1^3 - 2x_1^2x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
 $$
 
 ### Simple Models
 Simple models tends to generalize better than complex models, also have less coefficients so it will have a smaller combined error than a complex model
-
+$$
+2x_1 - 2x_1x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
+$$
 
 # Regularization
 
@@ -69,8 +71,8 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 |Sparce Outputs |  Non-Sparse Outputs  |
 |Feature Selection | No Feature Selection|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3NDUyNzQ0LDIxMzEzMjY5NDEsLTE1ND
-YxNTU0OTIsLTEzNDgwOTY3NjgsMTg2OTUyNzE1MywtNjk0MDE1
-MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3MywtMTk4NDU3MjIwMV
-19
+eyJoaXN0b3J5IjpbLTc2MjQxOTM3OSwyMTMxMzI2OTQxLC0xNT
+Q2MTU1NDkyLC0xMzQ4MDk2NzY4LDE4Njk1MjcxNTMsLTY5NDAx
+NTE2NSwxMTY3NDcxNDIxLDE4MjUxNzk5NzMsLTE5ODQ1NzIyMD
+FdfQ==
 -->
