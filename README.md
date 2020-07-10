@@ -100,10 +100,16 @@ Feature Scaling your data into a common range of values. There are two common sc
 
 ### Standardizing
 
-Takes each value of a column, substracting the mean o, and the mean of the column, and then dividing by the standard deviation of the column. In pyt
+Takes each value of a column, substracting the mean o, and the mean of the column, and then dividing by the standard deviation of the column. In Python, you ccould create a standardized value as:
+
+
+```python
+df["height_standard"] = (df["height"] - df["height"].mean()) / df["height"].std()
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjQ1MjQzOCwxNTYzNTMwNDUwLDIxMz
-EzMjY5NDEsLTE1NDYxNTU0OTIsLTEzNDgwOTY3NjgsMTg2OTUy
-NzE1MywtNjk0MDE1MTY1LDExNjc0NzE0MjEsMTgyNTE3OTk3My
-wtMTk4NDU3MjIwMV19
+eyJoaXN0b3J5IjpbMTU5NTY4MDg3LDE1NjM1MzA0NTAsMjEzMT
+MyNjk0MSwtMTU0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3
+MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC
+0xOTg0NTcyMjAxXX0=
 -->
