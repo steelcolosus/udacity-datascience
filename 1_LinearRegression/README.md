@@ -1,31 +1,35 @@
 # Absolute Trick
+
 *For a point above the rect*
-![enter image description here](https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png?raw=true)
+![Image Beneath](./images/point-above.png)!
 
 $$
 y = (w_1 + p\alpha)x + (w_2 + \alpha)
 $$
 
 for a point beneath the line
-![Beneath](https://github.com/steelcolosus/udacity-datascience/blob/master/images/below.png?raw=true)
+![Image Beneath](./images/below.png)
+
 $$
 y = (w_1 - p\alpha)x + (w_2 - \alpha)
+
 $$
 
 # Square Trick
-
-
-![Beneath](https://github.com/steelcolosus/udacity-datascience/blob/master/images/squaretrick.png?raw=true)
+![Image Beneath](./images/squaretrick.png)
 
 $$
 y = (w_1 - p(q-q')\alpha)x + (w_2 - (q-q')\alpha)
+
 $$
 
 # Closed  Form
 
 > *Closed form solution math:*
 
-$$W=(X^T X)^{-1} X^Ty$$
+$$
+W=(X^T X)^{-1} X^Ty
+$$
 
 
 # Model Types
@@ -34,9 +38,10 @@ $$W=(X^T X)^{-1} X^Ty$$
 Complex models tend to have more coefficient, so the complexity of the model will be added to the error having a bigger combined error
 
 $$
-2x_1^3 - 2x_1^2x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
-$$
 
+2x_1^3 - 2x_1^2x_2 - 4x_2^3 +3x_1^2+6x_1x_2+4x_2^2 + 5 =0
+
+$$
 > Complex model example: 
 >  - Model to send a rocket to the moon
 >  - Medical model
@@ -45,10 +50,12 @@ $$
 
 ### Simple Models
 Simple models tends to generalize better than complex models, also have less coefficients so it will have a smaller combined error than a complex model
-$$
-3x_1 - 4x_2 + 5 =0
+
 $$
 
+3x_1 - 4x_2 + 5 =0
+
+$$
 > Simple model example
 >  - Video recommendation model
 >  - Social recommendation
@@ -85,11 +92,11 @@ The **key difference** between these techniques is that Lasso shrinks the less i
 
 
 ## L1 vs L2
-|L1 Regularization	|L2 Regularization  |
-|--|--|
-|Computationally Inefficient|Computationally Efficient|
-|Sparce Outputs |  Non-Sparse Outputs  |
-|Feature Selection | No Feature Selection|
+| L1 Regularization           | L2 Regularization         |
+| --------------------------- | ------------------------- |
+| Computationally Inefficient | Computationally Efficient |
+| Sparce Outputs              | Non-Sparse Outputs        |
+| Feature Selection           | No Feature Selection      |
 
 # Feature Scaling
 
@@ -126,3 +133,5 @@ MyNjk0MSwtMTU0NjE1NTQ5MiwtMTM0ODA5Njc2OCwxODY5NTI3
 MTUzLC02OTQwMTUxNjUsMTE2NzQ3MTQyMSwxODI1MTc5OTczLC
 0xOTg0NTcyMjAxXX0=
 -->
+
+$$
