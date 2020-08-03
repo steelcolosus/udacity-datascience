@@ -2,7 +2,7 @@
 
 Cross-Industry Standard Process for Data Mining
 
-Phases:
+**Phases:**
 
 1. Business Understanding
 2. Data Understanding
@@ -21,7 +21,7 @@ This means understaing the problem and questions you are interested in tackling 
 * How can we imporove travel?
 * How can we better retain information
 
-**Business Questions**
+### Business Questions
 
 1. How do I break into the field
 2. What are the placement and salaries of those who attended a coding bootcamp?
@@ -32,7 +32,7 @@ This means understaing the problem and questions you are interested in tackling 
 
 We need to move the question from **Business Understanding** to data. We need data that can be used to answer the questions, or collect data to get at our questions of interest
 
-#### What Should you check?
+### What Should you check
 
 * [ ] Check each column is a variable, and each row is an individual.
 * [ ] Look at the number of rows and columns in the dataset
@@ -108,7 +108,7 @@ It is very common to impute in the following ways:
 
 1. Impute the mean of a column.
 
-2. If you are working with categorical data or a variable with outliers, then use the mode of the column.
+2. If you are working with categorical data or a variable with outliers, **then use the mode of the column**.
 
 3. Impute 0, a very small number, or a very large number to differentiate missing values from other values.
 
@@ -128,11 +128,11 @@ We were finally able to model the data, but we had some back and forth with step
 * Predict with test data
 * Score the model uing a metric to test how well it performs
 
-| Quantitative | Categorical |
-| - | - |
-| Number of Hours/Week | Country |
-| Job Satisfaction | Company Size |
-| Career Satisfaction | Formal Education |
+| Quantitative         | Categorical      |
+| -------------------- | ---------------- |
+| Number of Hours/Week | Country          |
+| Job Satisfaction     | Company Size     |
+| Career Satisfaction  | Formal Education |
 
 ## 5. Results
 Results are the findings from our wrangling and modeling. Below are some questions to recap the results found so far.
